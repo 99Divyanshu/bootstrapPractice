@@ -1,10 +1,19 @@
 .customDiv
 {
-    margin: 3px;
+    padding-top:2px ;
+    margin-bottom: 3px;
+    margin-top: 3px;
     min-height: 300px;
     background-color: rgb(77, 76, 76);
     color: ivory;
     text-align: center;
+}
+.customImg
+{
+    padding-top: 2px;
+    padding-left: 0px;
+    height: 300px;
+    width: 395px;
 }
 body
 {
