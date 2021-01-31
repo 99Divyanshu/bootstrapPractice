@@ -11,3 +11,17 @@
     color: white;
     border-bottom: 1px solid rgb(73, 72, 72);
 }
+.table
+{
+    padding: 10px;
+    border: 2px solid rgb(104, 101, 101);
+    background-color: whitesmoke;
+}
+h2
+{
+    
+    text-align:center;
+   background: -webkit-linear-gradient(70deg,violet,rgb(0, 162, 255),yellow,red);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
